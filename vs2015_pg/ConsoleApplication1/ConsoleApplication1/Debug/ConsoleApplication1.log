@@ -1,0 +1,7 @@
+﻿  ConsoleApplication1.cpp
+d:\c_code\vs2015_pg\consoleapplication1\consoleapplication1\consoleapplication1.cpp(22): warning C4838: 从“int”转换到“char”需要收缩转换
+d:\c_code\vs2015_pg\consoleapplication1\consoleapplication1\consoleapplication1.cpp(22): warning C4309: “初始化”: 截断常量值
+d:\c_code\vs2015_pg\consoleapplication1\consoleapplication1\consoleapplication1.cpp(25): warning C4838: 从“int”转换到“char”需要收缩转换
+d:\c_code\vs2015_pg\consoleapplication1\consoleapplication1\consoleapplication1.cpp(25): warning C4309: “初始化”: 截断常量值
+  ConsoleApplication1.vcxproj -> D:\c_code\vs2015_pg\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> D:\c_code\vs2015_pg\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)
